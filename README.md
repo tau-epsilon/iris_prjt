@@ -17,6 +17,6 @@ Iris and pupil ratio determination (and texture analysis) 🖥️
 
 * Differential methods (sobel, prewitt etc.)
 
-> Checkout the code in programs directory
-> Checkout presentations in the presentations directory
-> Checkout report in the report directory
+* Checkout the code in programs directory
+* Checkout presentations in the presentations directory
+* Checkout report in the report directory
